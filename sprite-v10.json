@@ -1,0 +1,58 @@
+{
+  "water_1": {
+    "width": 138,
+    "height": 138,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_2": {
+    "width": 138,
+    "height": 138,
+    "x": 138,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_3": {
+    "width": 138,
+    "height": 138,
+    "x": 276,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_4": {
+    "width": 138,
+    "height": 138,
+    "x": 414,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "sky_1": {
+    "width": 138,
+    "height": 138,
+    "x": 552,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "sky_2": {
+    "width": 138,
+    "height": 138,
+    "x": 690,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "terrain_1": {
+    "width": 138,
+    "height": 138,
+    "x": 828,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "terrain_2": {
+    "width": 138,
+    "height": 138,
+    "x": 966,
+    "y": 0,
+    "pixelRatio": 1
+  }
+}
