@@ -1,0 +1,30 @@
+{
+  "water_1": {
+    "width": 27,
+    "height": 27,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_2": {
+    "width": 27,
+    "height": 27,
+    "x": 27,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_3": {
+    "width": 27,
+    "height": 27,
+    "x": 54,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "water_4": {
+    "width": 27,
+    "height": 27,
+    "x": 81,
+    "y": 0,
+    "pixelRatio": 1
+  }
+}
